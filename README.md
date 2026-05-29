@@ -1,4 +1,4 @@
-# AI_Powered_Shipment_Prediction_-_Customer_Segmentation_System
+# AI Powered Shipment Prediction-Customer Segmentation System
 
 ## Project Title
 AI Powered Shipment Prediction & Customer Segmentation System
